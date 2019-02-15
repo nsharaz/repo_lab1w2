@@ -3,3 +3,5 @@ a new repository
 
 hello
 today is friday
+
+mini projects
